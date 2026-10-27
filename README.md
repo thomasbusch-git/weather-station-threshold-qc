@@ -1,6 +1,6 @@
 # Weather Station Threshold QC
 
-Threshold-based error detection for Hawaii Mesonet–style weather station data.
+Threshold-based error detection for weather station data.
 The scripts flag readings outside each sensor's valid range, group nearby bad
 readings into events, and produce an HTML/JSON error report plus time-series
 graphs that highlight the bad periods.
