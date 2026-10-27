@@ -1,0 +1,4 @@
+station_id,location,name,full_name,lat,lng,elevation,vegh,skn,nws_id,status
+9001,hawaii,Sample Upland,Sample Upland (synthetic),20.8,-156.3,650,0.1,,,active
+9002,hawaii,Sample Coastal,Sample Coastal (synthetic),21.3,-157.85,10,0.1,,,active
+9003,hawaii,Sample Ridge,Sample Ridge (synthetic),19.8,-155.5,1200,0.1,,,active

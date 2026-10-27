@@ -1,0 +1,6 @@
+polars
+ephem
+matplotlib
+numpy
+pandas
+plotly
